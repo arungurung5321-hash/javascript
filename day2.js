@@ -21,11 +21,11 @@
 //             // 0 1 2 3 4 5 6 7 8 9
 // console.log(arr[arr.length-3]="bye");
 // console.log(arr)
-const arr = [1,2,"arun",true,6,"chikn"];
-console.log(arr[arr.length-1])
-arr.forEach((item) => {
-    console.log(item);
-})
+// const arr = [1,2,"arun",true,6,"chikn"];
+// console.log(arr[arr.length-1])
+// arr.forEach((item) => {
+//     console.log(item);
+// })
 
 
 // arr.forEach((item)=>{
@@ -77,7 +77,8 @@ arr.forEach((item) => {
 // }
 
 // add(0.1,0.2)
-
+let x = 10
+console.log(x)
 // add(100,200)
 // add(10,-20)
 
